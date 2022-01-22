@@ -1,1 +1,1 @@
-# KaggleDiaryLog
+# KaggleDiaryLog:Kaggle日記のログ
